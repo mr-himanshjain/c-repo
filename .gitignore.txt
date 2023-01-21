@@ -1,6 +1,6 @@
 .vscode/
 exchange/
 html/
-javascript projects/
+javascript projects
 mini project using java/
 .gitignore
