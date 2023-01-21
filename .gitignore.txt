@@ -1,0 +1,6 @@
+.vscode/
+exchange/
+html/
+javascript projects/
+mini project using java/
+.gitignore
